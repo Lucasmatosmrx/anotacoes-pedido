@@ -1,0 +1,52 @@
+#INSTALAR YARN DE FORMA GOBLAL
+
+npm i -g yarn
+
+#CRIAR O ARQUIVO PACKAGE
+
+yarn init -y
+
+#ADICIONAR TYPESCRIPT EM MODO DESENVOLVIMENTO
+
+yarn add -D typescript
+
+#CRIAR O ARQUIVO DE CONFIGURAÇÃO DO TYPESCRIPT
+
+yarn tsc --init
+
+#GERAR ARQUIVOS JAVASCRIPT
+
+yarn tsc
+
+obs: fazer a configuração no tsconfig.json no outDir
+
+#CONFIGURAR ESLINT
+
+npm init @eslint/config
+
+#INSTALAR O EXPRESS
+
+yarn add express
+
+#ADICIONANDO PACOTE EXPRESS COMO DEPENDENCIA DE DESENVOLVIMENTO
+
+yarn add -D @types/express
+
+#RODAR UM ARQUIVOS TYPESCRIPT SEM PRECISAR GERAR O BUILD
+
+INSTALAR -> yarn add -D ts-node
+
+RODAR -> yarn ts-node src/index.ts
+
+#INSTALAR O NODEMON PARA FAZER O RESTART DA APLICACAO APOS AS ALTERACAOES
+
+yarn add -D nodemon
+
+
+
+
+
+
+
+
+
