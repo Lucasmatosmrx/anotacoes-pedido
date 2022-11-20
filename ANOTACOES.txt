@@ -42,7 +42,10 @@ RODAR -> yarn ts-node src/index.ts
 
 yarn add -D nodemon
 
+#ADICIONAR O MONGOOSE COMO DEPENDECIA DE PRODUCAO PARA FAZER MANIPULACAO E CONEXAO 
+COM BANCO
 
+yarn add mongoose
 
 
 
