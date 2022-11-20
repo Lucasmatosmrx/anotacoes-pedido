@@ -48,6 +48,8 @@ COM BANCO
 yarn add mongoose
 
 
+1:53:16 de video
+
 
 
 
