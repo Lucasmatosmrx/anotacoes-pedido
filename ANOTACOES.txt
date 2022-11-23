@@ -47,8 +47,16 @@ COM BANCO
 
 yarn add mongoose
 
+#FAZER UPLOAD DE ARQUIVOS
 
-1:53:16 de video
+yarn add multer
+
+#FAZER UPLOAD DE ARQUIVOS
+
+yarn add -D @types/multer
+
+
+2:32:18 video parou
 
 
 
